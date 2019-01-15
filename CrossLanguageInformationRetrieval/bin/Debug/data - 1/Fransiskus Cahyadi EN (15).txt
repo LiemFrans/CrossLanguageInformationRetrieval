@@ -1,0 +1,9 @@
+Information overload (also known as infobesity[1] or infoxication[2]) is a term used to describe the difficulty of understanding an issue and effectively making decisions when one has too much information about that issue.[3] The term is popularized by Alvin Toffler in his bestselling 1970 book Future Shock, but is mentioned in a 1964 book by Bertram Gross, The Managing of Organizations.[4] Speier et al. (1999) stated:[5]
+
+Information overload occurs when the amount of input to a system exceeds its processing capacity. Decision makers have fairly limited cognitive processing capacity. Consequently, when information overload occurs, it is likely that a reduction in decision quality will occur.
+
+In recent years, the term "information overload" has evolved into phrases such as information glut and data smog (Data Smog, Shenk, 1997). What was once a term grounded in cognitive psychology has evolved into a rich metaphor used outside the world of academia.
+
+The advent of modern information technology has been a primary driver of information overload on multiple fronts: in quantity produced, ease of dissemination, and breadth of audience reached.[6] Longstanding technological factors have been further intensified by the rise of social media and the attention economy.
+
+Clay Shirky, in a speech at the Web 2.0 Expo New York in 2008, has indicated that information overload in the modern age is a consequence of a deeper problem, which he calls filter failure.[7]

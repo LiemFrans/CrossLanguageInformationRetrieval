@@ -1,0 +1,13 @@
+Redmi S2 Listing Spotted on 3C Certification Site, Mi Pad 4 Specifications Leaked Too
+
+Redmi S2, the rumoured budget Xiaomi smartphone heading to India and China soon, has been spotted once again. This time Redmi S2 has been listed on China's 3C (Compulsory Certification of China) certification website; earlier this week, it surfaced on the TENAA certification site too. While the listing does not reveal any Redmi S2 specifications or features, it does confirm that the launch date is nearing in the company's home country. This will be yet another launch in the Chinese phone maker's ultra-successful budget Redmi series. Separately, the Xiaomi Mi Pad 4 has also reportedly been spotted in the wild with a possible Snapdragon 660 SoC.
+
+In the TENAA listing spotted earlier, the Redmi S2 is expected to run MIUI on top of Android 8.1.0 Oreo. It is said to sport a 5.99-inch HD+ (720x1440 pixels) TFT display with an 18:9 aspect ratio. As for internals, the phone might feature an octa-core Qualcomm Snapdragon 625 SoC, paired with 2GB/ 3GB/ 4GB of RAM, 16GB/ 32GB/ 64GB inbuilt storage, and an Adreno 506 GPU.
+
+In terms of optics, the Redmi S2 will reportedly bear a rear dual camera setup with a 12-megapixel Sony IMX486 primary sensor and a 5-megapixel Samsung S5K5E8 secondary sensor, coupled with an LED flash and a PDAF lens. On the front, the handset is said to sport a 16-megapixel selfie camera.
+
+As mentioned, the upcoming Redmi S2 has been allegedly been listed on 3C's official website, claims a 91Mobiles report. While Xiaomi is yet to confirm any of these developments, we can expect the budget handset to be unveiled in the coming few weeks. From previous reports, we can expect the phone to launch in China and India.
+
+Separately, XDA Developers reports that the Mi Pad 4 is in the works and is claimed to feature a Qualcomm Snapdragon 660 SoC. This information was shared by FunkyHuawei.club. According to the report, MIUI hardware configuration in the firmware files states that this device will be a tablet PC. Apart from that, the device will sport a 6000mAh battery.
+
+According to the camera configuration files, the Mi Pad 4 might sport a 13-megapixel OmniVision OV13855 sensor with f/2.0 aperture. On the front, there is expected to be a 5-megapixel Samsung S5K5E8 sensor with f/2.0 aperture.

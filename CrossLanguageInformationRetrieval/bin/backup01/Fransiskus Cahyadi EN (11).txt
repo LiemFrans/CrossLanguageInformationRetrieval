@@ -1,0 +1,6 @@
+Cross-language information retrieval (CLIR) is a subfield of information retrieval dealing with retrieving information written in a language different from the language of the user's query.[1] The term "cross-language information retrieval" has many synonyms, of which the following are perhaps the most frequent: cross-lingual information retrieval, translingual information retrieval, multilingual information retrieval. The term "multilingual information retrieval" refers more generally both to technology for retrieval of multilingual collections, and to technology which has been moved to handle material in one language to another. Cross-language information retrieval refers more specifically to the use case where users formulate their information need in one language and the system retrieves relevant documents in another. To do so, most CLIR systems use various translation techniques.[2] CLIR techniques can be classified into different categories based on different translation resources:[3]
+
+Dictionary-based CLIR techniques
+Parallel corpora based CLIR techniques
+Comparable corpora based CLIR techniques
+Machine translator based CLIR techniques

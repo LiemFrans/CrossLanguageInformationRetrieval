@@ -1,0 +1,16 @@
+LG G6 Android 8.0 Oreo Software Update Rollout Begins April 30
+
+LG G6, the South Korean giant's flagship handset from last year, is soon getting a taste of Oreo as LG will roll out the Android 8.0 software update on the smartphone next week. The announcement was made in a blog post on Friday, which stated that the rollout will commence from April 30. Additionally, the LG V20 and LG G5 are also confirmed to receive Android Oreo updates although the timelines haven't been detailed. The announcement comes ahead of the LG G7 ThinQ's launch slated for May 2.
+
+As per LG's blog post, the update can be installed wirelessly via OTA as well as through the LG Bridge programme on your PC. The Oreo update is claimed to improve overall speed, battery performance, phone performance, screen configuration, and graphics.
+
+The update brings several core Android Oreo features such as PiP (Picture in Picture) support, smart autofill, notification dots, and enhanced Quick Settings menu. Proprietary features for the LG, on the other hand, include support for high-resolution LDAC and adds certain features under the 'sympathetic AI' branding.
+
+"We will continue to provide stable and continuous after-sales services such as upgrading the OS and adding new functions to existing products. LG Smartphones can be trusted by customers [and] I will try to make steady efforts," said Lee Seok-su, CEO of Software Upgrade Center at LG Electronics.
+
+Previously, in December last year, the LG V30 had been issued the Android 8.0 Oreo software update. This stable update came a month after LG had introduced the 'LG OS Preview' beta programme in November 2017.
+
+LG G6 specifications
+The LG G6 sports a 5.7-inch QHD+ (1440x2880 pixels) FullVision display, with an 18:9 aspect ratio and Corning Gorilla Glass 3. Under the hood, a Qualcomm Snapdragon 821 SoC powers the LG G6 coupled with 4GB of LPDD4 RAM and 32GB/ 64GB inbuilt storage.
+
+In terms of camera specifications, the LG G6 bears a dual camera setup with two 13-megapixel sensors, where one of them is used for wide-angle shots with a 125-degree lens. On the front, the selfie camera features a 5-megapixel sensor with a 100-degree lens.
