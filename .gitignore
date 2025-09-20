@@ -1,0 +1,56 @@
+# Python venv and caches
+.venv/
+__pycache__/
+*.pyc
+.python-version
+.env
+env/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+coverage.xml
+htmlcov/
+
+# VS Code
+.vscode/
+.idea/
+
+# C# build artifacts
+CrossLanguageInformationRetrieval/bin/
+CrossLanguageInformationRetrieval/obj/
+.vs/
+**/bin/
+**/obj/
+Debug/
+Release/
+TestResults/
+*.user
+*.suo
+*.nupkg
+
+# Model outputs and large artifacts (keep locally, ignore in VCS)
+qa_training/qa_model/
+qa_training/qa_model_dl/
+qa_training/qa_llm/
+qa_training/.cache/
+qa_training/.hf_cache/
+
+# Archives and large datasets
+*.rar
+*.zip
+*.xzip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# Logs
+*.log
+
+# OS cruft
+.DS_Store
+Thumbs.db
