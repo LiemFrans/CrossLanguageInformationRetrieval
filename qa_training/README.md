@@ -11,6 +11,64 @@ This mini app trains a TF-IDF retrieval model from your document collections (e.
  - NLP flow with chunking granularity: per-document, per-paragraph, or per-sentence indexing
  - Optional: Tiny LLM from-scratch (for experimentation): train your own tokenizer + small GPT-like model
 
+## Process Flow
+
+```mermaid
+flowchart TD
+    subgraph DataPreparation[Data Preparation]
+        A[Dokumen: folder .txt / arsip .rar / HF dataset] --> B[data_loader.load_corpus / load_hf_texts]
+        B --> C{Granularity}
+        C -->|doc| D1[Dokumen utuh]
+        C -->|para| D2[Paragraf via split_into_paragraphs]
+        C -->|sent| D3[Kalimat via split_into_sentences]
+    end
+
+    subgraph TFIDF[TF-IDF Retrieval]
+        D1 & D2 & D3 --> E[preprocess]
+        E --> F[TfidfVectorizer fit_transform]
+        F --> G[tfidf_model.joblib]
+        subgraph TFIDFQuery[TF-IDF Query CLI]
+            H[User query] --> I[preprocess]
+            I --> J[vectorizer.transform]
+            J --> K[cosine_similarity]
+            K --> L[Top-K dokumen + snippet]
+        end
+    end
+    G --> TFIDFQuery
+
+    subgraph DL[Sentence Transformer Retrieval]
+        D1 & D2 & D3 --> M[normalize]
+        M --> N[SentenceTransformer.encode]
+        N --> O[dl_model.joblib]
+        subgraph DLQuery[DL Query CLI]
+            P[User query] --> Q[normalize]
+            Q --> R[SentenceTransformer.encode]
+            R --> S[Cosine similarity]
+            S --> T[Top-K dokumen + snippet]
+        end
+    end
+    O --> DLQuery
+
+    subgraph LLM[Mini GPT Experiment]
+        B --> U[Tokenization corpus]
+        U --> V[tokenizer_train → tokenizer.json]
+        V --> W[encode_corpus]
+        W --> X[TextDataset/DataLoader]
+        X --> Y[LLM training]
+        Y --> Z[llm.pt]
+        subgraph LLMGen[LLM Generation CLI]
+            AA[User prompt] --> AB[tokenizer.encode]
+            AB --> AC[GPT.generate]
+            AC --> AD[tokenizer.decode]
+        end
+    end
+    Z --> LLMGen
+
+    style TFIDF fill:#E8F0FF,stroke:#4C6EF5
+    style DL fill:#E6FFFB,stroke:#12B886
+    style LLM fill:#FFF5E6,stroke:#F08C00
+```
+
 ## Setup
 
 1) Create and activate a virtual environment (recommended)
